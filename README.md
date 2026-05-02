@@ -1,4 +1,4 @@
-# Bamboo Buds Academy — Site
+# Bamboo Buds Academy — Site 
 
 This repository contains a simple static homepage for Bamboo Buds Academy (Pre-K).
 
