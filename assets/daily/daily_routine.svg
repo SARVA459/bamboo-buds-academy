@@ -5,7 +5,7 @@
     <g transform="translate(40,40)">
       <rect width="220" height="220" rx="18" fill="#F9F7F2" stroke="#E9E6E2"/>
       <circle cx="110" cy="80" r="36" fill="#7D8C7B"/>
-      <text x="110" y="135" font-size="18" fill="#64707a" text-anchor="middle">Morning circle &"</text>
+      <text x="110" y="135" font-size="18" fill="#64707a" text-anchor="middle">Morning circle</text>
       <text x="110" y="155" font-size="18" fill="#64707a" text-anchor="middle">language time</text>
     </g>
 
@@ -17,7 +17,7 @@
         <rect x="20" y="10" width="40" height="40" rx="8" fill="#7D8C7B"/>
       </g>
       <text x="110" y="190" font-size="18" fill="#64707a" text-anchor="middle">Hands‑on exploration</text>
-      <text x="110" y="210" font-size="18" fill="#64707a" text-anchor="middle">& sensory play</text>
+      <text x="110" y="210" font-size="18" fill="#64707a" text-anchor="middle">sensory play</text>
     </g>
 
     <!-- Outdoor nature walks -->
@@ -28,7 +28,7 @@
         <rect x="40" y="10" width="60" height="24" rx="6" fill="#7D8C7B"/>
       </g>
       <text x="110" y="170" font-size="18" fill="#64707a" text-anchor="middle">Outdoor nature walks</text>
-      <text x="110" y="190" font-size="18" fill="#64707a" text-anchor="middle">& gardening</text>
+      <text x="110" y="190" font-size="18" fill="#64707a" text-anchor="middle">gardening</text>
     </g>
 
     <!-- Small group projects -->
